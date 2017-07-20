@@ -1,0 +1,29 @@
+.wrap{
+	width:90%;
+}
+.biaoti{
+	font-size: 50px;
+    font-weight: 200;
+    line-height: 75px;
+    color: #d10007;
+   	text-align: center;
+}
+.biaoti1-top{
+	font-size:22px;
+	margin: 5px 0;
+}
+.biaoti1-bottom{
+	font-size:15px;
+	font-weight: 400;
+}
+.right-wenzi1{
+	font-size:18px;
+	margin-top: 10px;
+	color:#000;
+}
+.right-wenzi2{
+	display: block;
+	font-size:13px;
+	margin-top: 5px;
+	color:#000;
+}
